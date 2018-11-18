@@ -1,0 +1,25 @@
+{
+    "pools" : [
+        {
+            "name" : "pool.bitcoinnova.org",
+            "url" : "http://pool.bitcoinnova.org",
+            "api" : "http://pool.bitcoinnova.org:8133/",
+            "type" : "node.js",
+            "miningAddress" : "pool.bitcoinnova.org"
+        },
+        {
+            "name" : "btn.gonspool.com",
+            "url" : "http://btn.gonspool.com",
+            "api" : "http://btn.gonspool.com:8133/",
+            "type" : "forknote",
+            "miningAddress" : "btn.gonspool.com"
+        },
+        {
+            "name" : "superblockchain.con-ip.com",
+            "url" : "https://superblockchain.con-ip.com/btn/",
+            "api" : "https://superblockchain.con-ip.com:8132/",
+            "type" : "node.js",
+            "miningAddress" : "superblockchain.con-ip.com"
+        }
+    ]
+}
