@@ -20,6 +20,13 @@
             "api" : "https://superblockchain.con-ip.com:8132/",
             "type" : "node.js",
             "miningAddress" : "superblockchain.con-ip.com"
+        },
+        {
+            "name": "webbtn.semipool.com",
+            "url": "https://webbtn.semipool.com/",
+            "api": "https://webbtn.semipool.com/api/",
+            "type": "node.js",
+            "miningAddress": "pool.semipool.com"
         }
     ]
 }
